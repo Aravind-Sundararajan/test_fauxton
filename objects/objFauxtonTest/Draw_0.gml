@@ -1,0 +1,1 @@
+draw_sprite_3d(sprite_index,0,x,y,0,0,0,image_angle,image_xscale,image_yscale,0,false);
